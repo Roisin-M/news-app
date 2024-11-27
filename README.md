@@ -1,4 +1,5 @@
 # learning React Native
+I am following along tutorial on youtube to teach myself React Native for my Group Project 300 "Skin protect". We will be developing a personalised spf recommendation mobile app using React Native for cross-platform compatability.
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
